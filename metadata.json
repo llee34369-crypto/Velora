@@ -1,0 +1,6 @@
+{
+  "name": "Velora",
+  "description": "An interactive Web3 and smart contract security auditor. Paste Solidity code to run detailed security diagnostics or scan your dApp website frontend for injection vectors, phishing clues, and missing security headers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
